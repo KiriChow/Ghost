@@ -3,7 +3,7 @@
 
 namespace Ripterms::GUI
 {
-	const char* client_name = "r i p t e r m s    g h o s t";
+	const char* client_name = "k i r i c h o w    g h o s t";
 	constexpr float HEADER_HEIGHT = 40.f;
 	constexpr float HEADER_CAT_DISTANCE = 10.f;
 	constexpr float CATEGORY_WIDTH = 100.0f;
